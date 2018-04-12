@@ -1,0 +1,8 @@
+﻿claim_header_id,first_name,last_name,ssn,address,start_date,end_date,total_price_cents
+1,Mae,Jemison,123-45-6789,"4449 N. 32nd St, New York, NY",20/03/2012,22/03/2012,100050
+2,Tan,Yunxian,123726759,"215 W. Grand Ave, Chicago, IL",14/12/2014,19/12/2014,72500
+3,Eva,Carneiro,523-55-6780,"1499 S. Lyon St, San Francisco, CA",01/05/2011,01/05/2011,3099
+4,Rebecca,Cole,111-00-9818,"123 Park Way, Topeka, KS",06/07/2015,08/08/2015,600000
+5,Johnny,Appleseed,79416289,"17 Drive, Agloe, NY",29/02/2017,02/03/2017,40300
+6,Nick,Fury,043-42-6689,"Baltimore, MD",04/04/2044,04/05/2044,-1
+
